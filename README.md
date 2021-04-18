@@ -1,2 +1,2 @@
-# inf285_1
+# inf285-1
 Create a Web Application
